@@ -1,0 +1,1167 @@
+[
+  {
+    "id": "dsa",
+    "type": 3,
+    "group":4,
+    "date":"2024-04-23",
+    "yt": "aaZPN897TX4",
+    "name": [
+      {
+        "lang": "es",
+        "text": "Dragonstar Arena"
+      },
+      {
+        "lang": "en",
+        "text": "Dragonstar Arena"
+      }
+    ],
+    "timeline": [
+      {
+        "mode": 0,
+        "ranges": [
+          { "start": 0, "toEnd": true}
+        ]
+      }
+    ],
+    "texts": [
+    {
+        "range": {
+          "start": 30,
+          "toEnd": true
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "adios"
+          },
+          {
+            "lang": "en",
+            "text": "Bye"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      },
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      }
+    ],
+    "pauses": [
+      {"start": 30, "duration": 4}
+    ]
+  }
+  ,
+  {
+    "id": "vh",
+    "type": 3,
+    "group":4,
+    "date":"2024-04-23",
+    "yt": "YEvHtGMha7o",
+    "name": [
+      {
+        "lang": "es",
+        "text": "Vateshran Hollows"
+      },
+      {
+        "lang": "en",
+        "text": "Dragonstar Arena"
+      }
+    ],
+    "timeline": [
+      {
+        "mode": 0,
+        "ranges": [
+          { "start": 0, "toEnd": true}
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "range": {
+          "start": 0,
+          "end": 20
+        },
+        "text": [
+          {
+            "lang": "es",
+            "text": "Hola"
+          },
+          {
+            "lang": "en",
+            "text": "Hello"
+          }
+        ]
+      }
+    ],
+    "pauses": [
+      {"start": 30, "duration": 4}
+    ]
+  }
+]
